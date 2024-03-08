@@ -97,14 +97,19 @@ a {
 } */
 .header .container {
   display: flex;
+  align-items: center;
+  /* height: 70px; */
 }
 .header-logo {
 }
 .header-list {
   display: flex;
   margin-left: auto;
+  /* padding: 30px 0px; */
 }
 .header-item {
 }
 .header-link {
+  padding: 30px 0px;
+  display: block;
 }
